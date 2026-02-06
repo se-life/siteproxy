@@ -26,7 +26,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/siteproxy-custom.git
+git clone https://github.com/se-leife/siteproxy.git
 cd siteproxy-custom
 
 # 2. 安装依赖
